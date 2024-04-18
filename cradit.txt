@@ -1,0 +1,51 @@
+
+YOUTUBE CodingLab
+
+https://www.youtube.com/watch?v=np3L1lb-Uvs&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf
+
+How to Make Responsive Profile Card in HTML & CSS
+How to Make Responsive Profile Card in HTML & CSS | Profile Card UI Design
+
+In this video tutorial, you will learn to create a Responsive Profile Card using HTML and CSS step by step. I have created this profile card from scratch.
+
+---
+
+✅ Card Design
+➤   
+
+ • Card Design in HTML CSS & JavaScript  
+
+✅ CSS Design
+➤    
+
+ • HTML & CSS PROJECT  
+
+---
+
+⌚ Timestamps:
+00:00 Profile Card Demo
+00:40 File Structure
+00:57 Importing Google Fonts
+0201 Importing Font Icons
+02:32 HTML Code for Profile Card
+03:03 CSS code for Profile Card
+28:02 Home section & Swiper js
+45:16 Creating About Us section
+16:08 Profile Card Final Demo
+
+#Profile_Card #Card_Design #HTML_CSS
+
+---
+
+🎵 Music Credit:
+Something 'bout July (Instrumental) by RYYZN 
+Free Download / Stream: http://bit.ly/-_something-bout-july
+Music promoted by Audio Library   
+
+ • Something 'bout July (Instrumental) –...  
+
+Song: Ehrling - You And Me (Vlog No Copyright Music)
+Music provided by Vlog No Copyright Music.
+➤ Video Link:   
+
+ • Ehrling - You And Me (Vlog No Copyrig... 
